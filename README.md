@@ -1,8 +1,8 @@
-#Cadenza Task 1: Personalized Audio Processing
+<h1>Cadenza Task 1: Personalized Audio Processing</h1>
 
 This project aims to tackle an exciting challenge in the field of audio processing, a part of The Cadenza Challenge. The task requires us to use Spleeter for audio separation and then apply personalized hearing corrections on each separated stream. The personalized hearing corrections are based on listener characteristics defined by an audiogram. These steps allow us to generate a remixed version of a song tailored to an individual's unique hearing characteristics.
 
-##Work done
+<h2>Work done</h2>
 
 In this project, we have:
 
