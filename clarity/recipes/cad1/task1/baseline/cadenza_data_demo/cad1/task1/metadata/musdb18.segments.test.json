@@ -1,0 +1,602 @@
+{
+    "AM Contra - Heart Peripheral": {
+        "subjective_evaluation": {
+            "start": 51.77,
+            "end": 66.77,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 129.64,
+            "end": 159.64,
+            "duration": 30.0
+        }
+    },
+    "Actions - One Minute Smile": {
+        "subjective_evaluation": {
+            "start": 51.77,
+            "end": 66.77,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 129.64,
+            "end": 159.64,
+            "duration": 30.0
+        }
+    },
+    "Al James - Schoolboy Facination": {
+        "subjective_evaluation": {
+            "start": 39.88,
+            "end": 54.88,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 90.6,
+            "end": 120.6,
+            "duration": 30.0
+        }
+    },
+    "Angels In Amplifiers - I'm Alright": {
+        "subjective_evaluation": {
+            "start": 118.63,
+            "end": 133.63,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 115.6,
+            "end": 145.6,
+            "duration": 30.0
+        }
+    },
+    "Arise - Run Run Run": {
+        "subjective_evaluation": {
+            "start": 198.48,
+            "end": 213.48,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 71.74,
+            "end": 101.74,
+            "duration": 30.0
+        }
+    },
+    "BKS - Bulldozer": {
+        "subjective_evaluation": {
+            "start": 120.95,
+            "end": 135.95,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 251.54,
+            "end": 281.54,
+            "duration": 30.0
+        }
+    },
+    "BKS - Too Much": {
+        "subjective_evaluation": {
+            "start": 121.97,
+            "end": 136.97,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 106.66,
+            "end": 136.66,
+            "duration": 30.0
+        }
+    },
+    "Ben Carrigan - We'll Talk About It All Tonight": {
+        "subjective_evaluation": {
+            "start": 229.22,
+            "end": 244.22,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 91.94,
+            "end": 121.94,
+            "duration": 30.0
+        }
+    },
+    "Bobby Nobody - Stitch Up": {
+        "subjective_evaluation": {
+            "start": 162.15,
+            "end": 177.15,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 170.86,
+            "end": 200.86,
+            "duration": 30.0
+        }
+    },
+    "Buitraker - Revo X": {
+        "subjective_evaluation": {
+            "start": 227.11,
+            "end": 242.11,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 224.82,
+            "end": 254.82,
+            "duration": 30.0
+        }
+    },
+    "Carlos Gonzalez - A Place For Us": {
+        "subjective_evaluation": {
+            "start": 21.23,
+            "end": 36.23,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 111.96,
+            "end": 141.96,
+            "duration": 30.0
+        }
+    },
+    "Cristina Vane - So Easy": {
+        "subjective_evaluation": {
+            "start": 234.58,
+            "end": 249.58,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 208.49,
+            "end": 238.49,
+            "duration": 30.0
+        }
+    },
+    "Detsky Sad - Walkie Talkie": {
+        "subjective_evaluation": {
+            "start": 136.41,
+            "end": 151.41,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 55.06,
+            "end": 85.06,
+            "duration": 30.0
+        }
+    },
+    "Enda Reilly - Cur An Long Ag Seol": {
+        "subjective_evaluation": {
+            "start": 60.67,
+            "end": 75.67,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 67.44,
+            "end": 97.44,
+            "duration": 30.0
+        }
+    },
+    "Forkupines - Semantics": {
+        "subjective_evaluation": {
+            "start": 220.59,
+            "end": 235.59,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 62.4,
+            "end": 92.4,
+            "duration": 30.0
+        }
+    },
+    "Georgia Wonder - Siren": {
+        "subjective_evaluation": {
+            "start": 411.87,
+            "end": 426.87,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 319.49,
+            "end": 349.49,
+            "duration": 30.0
+        }
+    },
+    "Girls Under Glass - We Feel Alright": {
+        "subjective_evaluation": {
+            "start": 148.04,
+            "end": 163.04,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 230.29,
+            "end": 260.29,
+            "duration": 30.0
+        }
+    },
+    "Hollow Ground - Ill Fate": {
+        "subjective_evaluation": {
+            "start": 40.02,
+            "end": 55.02,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 78.14,
+            "end": 108.14,
+            "duration": 30.0
+        }
+    },
+    "James Elder & Mark M Thompson - The English Actor": {
+        "subjective_evaluation": {
+            "start": 151.95,
+            "end": 166.95,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 121.55,
+            "end": 151.55,
+            "duration": 30.0
+        }
+    },
+    "Juliet's Rescue - Heartbeats": {
+        "subjective_evaluation": {
+            "start": 76.47,
+            "end": 91.47,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 110.69,
+            "end": 140.69,
+            "duration": 30.0
+        }
+    },
+    "Little Chicago's Finest - My Own": {
+        "subjective_evaluation": {
+            "start": 195.58,
+            "end": 210.58,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 82.41,
+            "end": 112.41,
+            "duration": 30.0
+        }
+    },
+    "Louis Cressy Band - Good Time": {
+        "subjective_evaluation": {
+            "start": 176.61,
+            "end": 191.61,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 156.29,
+            "end": 186.29,
+            "duration": 30.0
+        }
+    },
+    "Lyndsey Ollard - Catching Up": {
+        "subjective_evaluation": {
+            "start": 40.53,
+            "end": 55.53,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 177.41,
+            "end": 207.41,
+            "duration": 30.0
+        }
+    },
+    "M.E.R.C. Music - Knockout": {
+        "subjective_evaluation": {
+            "start": 6.84,
+            "end": 21.84,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 59.97,
+            "end": 89.97,
+            "duration": 30.0
+        }
+    },
+    "Moosmusic - Big Dummy Shake": {
+        "subjective_evaluation": {
+            "start": 117.6,
+            "end": 132.6,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 31.05,
+            "end": 61.05,
+            "duration": 30.0
+        }
+    },
+    "Motor Tapes - Shore": {
+        "subjective_evaluation": {
+            "start": 139.3,
+            "end": 154.3,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 167.72,
+            "end": 197.72,
+            "duration": 30.0
+        }
+    },
+    "Mu - Too Bright": {
+        "subjective_evaluation": {
+            "start": 57.91,
+            "end": 72.91,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 35.56,
+            "end": 65.56,
+            "duration": 30.0
+        }
+    },
+    "Nerve 9 - Pray For The Rain": {
+        "subjective_evaluation": {
+            "start": 57.04,
+            "end": 72.04,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 0.36,
+            "end": 30.36,
+            "duration": 30.0
+        }
+    },
+    "PR - Happy Daze": {
+        "subjective_evaluation": {
+            "start": 102.88,
+            "end": 117.88,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 25.69,
+            "end": 55.69,
+            "duration": 30.0
+        }
+    },
+    "PR - Oh No": {
+        "subjective_evaluation": {
+            "start": 16.56,
+            "end": 31.56,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 37.86,
+            "end": 67.86,
+            "duration": 30.0
+        }
+    },
+    "Raft Monk - Tiring": {
+        "subjective_evaluation": {
+            "start": 89.36,
+            "end": 104.36,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 165.81,
+            "end": 195.81,
+            "duration": 30.0
+        }
+    },
+    "Sambasevam Shanmugam - Kaathaadi": {
+        "subjective_evaluation": {
+            "start": 143.94,
+            "end": 158.94,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 94.72,
+            "end": 124.72,
+            "duration": 30.0
+        }
+    },
+    "Secretariat - Borderline": {
+        "subjective_evaluation": {
+            "start": 167.44,
+            "end": 182.44,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 34.81,
+            "end": 64.81,
+            "duration": 30.0
+        }
+    },
+    "Secretariat - Over The Top": {
+        "subjective_evaluation": {
+            "start": 42.35,
+            "end": 57.35,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 193.85,
+            "end": 223.85,
+            "duration": 30.0
+        }
+    },
+    "Side Effects Project - Sing With Me": {
+        "subjective_evaluation": {
+            "start": 58.65,
+            "end": 73.65,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 33.51,
+            "end": 63.51,
+            "duration": 30.0
+        }
+    },
+    "Signe Jakobsen - What Have You Done To Me": {
+        "subjective_evaluation": {
+            "start": 64.13,
+            "end": 79.13,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 44.46,
+            "end": 74.46,
+            "duration": 30.0
+        }
+    },
+    "Skelpolu - Resurrection": {
+        "subjective_evaluation": {
+            "start": 257.89,
+            "end": 272.89,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 267.99,
+            "end": 297.99,
+            "duration": 30.0
+        }
+    },
+    "Speak Softly - Broken Man": {
+        "subjective_evaluation": {
+            "start": 164.47,
+            "end": 179.47,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 117.87,
+            "end": 147.87,
+            "duration": 30.0
+        }
+    },
+    "Speak Softly - Like Horses": {
+        "subjective_evaluation": {
+            "start": 293.62,
+            "end": 308.62,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 251.94,
+            "end": 281.94,
+            "duration": 30.0
+        }
+    },
+    "The Doppler Shift - Atrophy": {
+        "subjective_evaluation": {
+            "start": 112.77,
+            "end": 127.77,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 263.09,
+            "end": 293.09,
+            "duration": 30.0
+        }
+    },
+    "The Easton Ellises (Baumi) - SDRNR": {
+        "subjective_evaluation": {
+            "start": 30.06,
+            "end": 45.06,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 117.31,
+            "end": 147.31,
+            "duration": 30.0
+        }
+    },
+    "The Easton Ellises - Falcon 69": {
+        "subjective_evaluation": {
+            "start": 84.32,
+            "end": 99.32,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 191.25,
+            "end": 221.25,
+            "duration": 30.0
+        }
+    },
+    "The Long Wait - Dark Horses": {
+        "subjective_evaluation": {
+            "start": 166.84,
+            "end": 181.84,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 134.16,
+            "end": 164.16,
+            "duration": 30.0
+        }
+    },
+    "The Mountaineering Club - Mallory": {
+        "subjective_evaluation": {
+            "start": 142.83,
+            "end": 157.83,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 160.53,
+            "end": 190.53,
+            "duration": 30.0
+        }
+    },
+    "The Sunshine Garcia Band - For I Am The Moon": {
+        "subjective_evaluation": {
+            "start": 107.25,
+            "end": 122.25,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 206.86,
+            "end": 236.86,
+            "duration": 30.0
+        }
+    },
+    "Timboz - Pony": {
+        "subjective_evaluation": {
+            "start": 152.64,
+            "end": 167.64,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 215.18,
+            "end": 245.18,
+            "duration": 30.0
+        }
+    },
+    "Tom McKenzie - Directions": {
+        "subjective_evaluation": {
+            "start": 153.79,
+            "end": 168.79,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 81.92,
+            "end": 111.92,
+            "duration": 30.0
+        }
+    },
+    "Triviul feat. The Fiend - Widow": {
+        "subjective_evaluation": {
+            "start": 92.69,
+            "end": 107.69,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 183.76,
+            "end": 213.76,
+            "duration": 30.0
+        }
+    },
+    "We Fell From The Sky - Not You": {
+        "subjective_evaluation": {
+            "start": 110.74,
+            "end": 125.74,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 139.63,
+            "end": 169.63,
+            "duration": 30.0
+        }
+    },
+    "Zeno - Signs": {
+        "subjective_evaluation": {
+            "start": 182.63,
+            "end": 197.63,
+            "duration": 15.0
+        },
+        "objective_evaluation": {
+            "start": 84.27,
+            "end": 114.27,
+            "duration": 30.0
+        }
+    }
+}
